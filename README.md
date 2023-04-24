@@ -4,7 +4,7 @@
 
 About the dataset :
 
-- Id 
+- Id : House id
 - MSSubClass: The building class
 - MSZoning: The general zoning classification
 - LotFrontage: Linear feet of street connected to property
